@@ -1,0 +1,2642 @@
+[
+    {   "_description": "NovoselkiFlag",
+        "ObjectiveID": 1001,
+        "ObjectiveType": 10,
+        "Groups": [
+            {   
+                "Weight": 50,
+                "RewardType": "crate",
+                "Item": "ALQMilitaryCrate",
+                "Position": "5799.35009765625 93.69999694824219 3071.77001953125",
+                "Orientation": "53.999969482421878  -0.0 -0.0",
+                "MinGuaranteedItems": 2,
+				"MaxItems": 4,
+                "Contents": [
+                    {
+                        "ItemName": "Map",
+                        "Chance": 90,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "Compass",
+                        "Chance": 10,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "AKM",
+                        "Chance": 80,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_AKM_30Rnd",
+                            "KashtanOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "M4A1",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_CMAG_40Rnd",
+                            "M4_CarryHandleOptic",
+							"M4_PlasticHndgrd",
+							"M4_OEBttstck"
+                        ]
+                    },
+                    {
+                        "ItemName": "FNX45",
+                        "Chance": 65,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_FNX45_15Rnd",
+                            "PistolSuppressor",
+                            "TLRLight",
+                            "FNP45_MRDSOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "VSS",
+                        "Chance": 60,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_VSS_10Rnd",
+                            "PSO11Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Scout",
+                        "Chance": 55,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Scout_5Rnd",
+                            "M68Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Aug",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Aug_30Rnd",
+                            "BUISOptic"
+                        ]
+                    }
+                ],
+                "Parts": [
+                ],
+                "VehicleTimer": 0,
+                "CrateTimer": 120000
+            },
+            {   
+                "Weight": 50,
+                "RewardType": "crate",
+                "Item": "ALQGreenCrate",
+                "Position": "5799.35009765625 93.69999694824219 3071.77001953125",
+                "Orientation": "53.999969482421878  -0.0 -0.0",
+                "MinGuaranteedItems": 2,
+				"MaxItems": 5,
+                "Contents": [
+                    {
+                        "ItemName": "Map",
+                        "Chance": 90,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "Compass",
+                        "Chance": 10,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "AKM",
+                        "Chance": 80,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_AKM_30Rnd",
+                            "KashtanOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "M4A1",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_CMAG_40Rnd",
+                            "M4_CarryHandleOptic",
+							"M4_PlasticHndgrd",
+							"M4_OEBttstck"
+                        ]
+                    },
+                    {
+                        "ItemName": "FNX45",
+                        "Chance": 65,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_FNX45_15Rnd",
+                            "PistolSuppressor",
+                            "TLRLight",
+                            "FNP45_MRDSOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "VSS",
+                        "Chance": 60,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_VSS_10Rnd",
+                            "PSO11Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Scout",
+                        "Chance": 55,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Scout_5Rnd",
+                            "M68Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Aug",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Aug_30Rnd",
+                            "BUISOptic"
+                        ]
+                    }
+                ],
+                "Parts": [
+                ],
+                "VehicleTimer": 0,
+                "CrateTimer": 120000
+            }
+        ]
+    },
+	{   
+	    "_description": "1002_Verbnik",
+        "ObjectiveID": 1002,
+        "ObjectiveType": 10,
+        "Groups": [
+            {     
+                "Weight": 50,
+                "RewardType": "crate",
+                "Item": "ALQMilitaryCrate",
+                "Position": "4512.81982421875 339.1759948730469 9398.23046875",
+                "Orientation": "-35.999996185302737  -0.0 -1.1999787092208863",
+                "MinGuaranteedItems": 2,
+				"MaxItems": 4,
+                "Contents": [
+                    {
+                        "ItemName": "Map",
+                        "Chance": 90,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "Compass",
+                        "Chance": 10,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "AKM",
+                        "Chance": 80,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_AKM_30Rnd",
+                            "KashtanOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "M4A1",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_CMAG_40Rnd",
+                            "M4_CarryHandleOptic",
+							"M4_PlasticHndgrd",
+							"M4_OEBttstck"
+                        ]
+                    },
+                    {
+                        "ItemName": "FNX45",
+                        "Chance": 65,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_FNX45_15Rnd",
+                            "PistolSuppressor",
+                            "TLRLight",
+                            "FNP45_MRDSOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "VSS",
+                        "Chance": 60,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_VSS_10Rnd",
+                            "PSO11Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Scout",
+                        "Chance": 55,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Scout_5Rnd",
+                            "M68Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Aug",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Aug_30Rnd",
+                            "BUISOptic"
+                        ]
+                    }
+                ],
+                "Parts": [
+                ],
+                "VehicleTimer": 0,
+                "CrateTimer": 120000
+            },
+            {
+                "Weight": 50,
+                "RewardType": "crate",
+                "Item": "ALQMilitaryCrate",
+                "Position": "4512.81982421875 339.1759948730469 9398.23046875",
+                "Orientation": "-35.999996185302737  -0.0 -1.1999787092208863",
+                "MinGuaranteedItems": 2,
+				"MaxItems": 4,
+                "Contents": [
+                    {
+                        "ItemName": "Map",
+                        "Chance": 90,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "Compass",
+                        "Chance": 10,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "AKM",
+                        "Chance": 80,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_AKM_30Rnd",
+                            "KashtanOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "M4A1",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_CMAG_40Rnd",
+                            "M4_CarryHandleOptic",
+							"M4_PlasticHndgrd",
+							"M4_OEBttstck"
+                        ]
+                    },
+                    {
+                        "ItemName": "FNX45",
+                        "Chance": 65,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_FNX45_15Rnd",
+                            "PistolSuppressor",
+                            "TLRLight",
+                            "FNP45_MRDSOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "VSS",
+                        "Chance": 60,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_VSS_10Rnd",
+                            "PSO11Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Scout",
+                        "Chance": 55,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Scout_5Rnd",
+                            "M68Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Aug",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Aug_30Rnd",
+                            "BUISOptic"
+                        ]
+                    }
+                ],
+                "Parts": [
+                ],
+                "VehicleTimer": 0,
+                "CrateTimer": 120000
+            }
+        ]
+    },
+	{  
+  	    "_description": "1003_Turovo",
+        "ObjectiveID": 1003,
+        "ObjectiveType": 10,
+        "Groups": [
+            {
+                "Weight": 50,
+                "RewardType": "crate",
+                "Item": "ALQMilitaryCrate",
+                "Position": "13648.2001953125 5.599999904632568 13767.400390625",
+                "Orientation": "-71.99992370605469 -0.0 -0.0",
+                "MinGuaranteedItems": 2,
+				"MaxItems": 3,
+                "Contents": [
+                    {
+                        "ItemName": "Map",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "Compass",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "AKM",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_AKM_30Rnd",
+                            "KashtanOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "M4A1",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_CMAG_40Rnd",
+                            "M4_CarryHandleOptic",
+							"M4_PlasticHndgrd",
+							"M4_OEBttstck"
+                        ]
+                    },
+                    {
+                        "ItemName": "FNX45",
+                        "Chance": 65,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_FNX45_15Rnd",
+                            "PistolSuppressor",
+                            "TLRLight",
+                            "FNP45_MRDSOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "VSS",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_VSS_10Rnd",
+                            "PSO11Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Scout",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Scout_5Rnd",
+                            "M68Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Aug",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Aug_30Rnd",
+                            "BUISOptic"
+                        ]
+                    }
+                ],
+                "Parts": [
+                ],
+                "VehicleTimer": 0,
+                "CrateTimer": 120000
+            },
+            {
+                "Weight": 50,
+                "RewardType": "crate",
+                "Item": "ALQMilitaryCrate",
+                "Position": "13648.2001953125 5.599999904632568 13767.400390625",
+                "Orientation": "-71.99992370605469  -0.0 -0.0",
+                "MinGuaranteedItems": 2,
+				"MaxItems": 3,
+                "Contents": [
+                    {
+                        "ItemName": "Map",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "Compass",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "AKM",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_AKM_30Rnd",
+                            "KashtanOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "M4A1",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_CMAG_40Rnd",
+                            "M4_CarryHandleOptic",
+							"M4_PlasticHndgrd",
+							"M4_OEBttstck"
+                        ]
+                    },
+                    {
+                        "ItemName": "FNX45",
+                        "Chance": 55,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_FNX45_15Rnd",
+                            "PistolSuppressor",
+                            "TLRLight",
+                            "FNP45_MRDSOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "VSS",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_VSS_10Rnd",
+                            "PSO11Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Scout",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Scout_5Rnd",
+                            "M68Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Aug",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Aug_30Rnd",
+                            "BUISOptic"
+                        ]
+                    }
+                ],
+                "Parts": [
+                ],
+                "VehicleTimer": 0,
+                "CrateTimer": 120000
+            }
+        ]
+    },
+	{  
+  	    "_description": "1004_Tikhiy_zaliv",
+        "ObjectiveID": 1004,
+        "ObjectiveType": 10,
+        "Groups": [
+            {
+                "Weight": 50,
+                "RewardType": "crate",
+                "Item": "ALQMilitaryCrate",
+                "Position": "751.72802734375 6.119999885559082 1918.4599609375",
+                "Orientation": "-26.99991226196289 -0.0 -0.0",
+                "MinGuaranteedItems": 2,
+				"MaxItems": 3,
+                "Contents": [
+                    {
+                        "ItemName": "Map",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "Compass",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "AKM",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_AKM_30Rnd",
+                            "KashtanOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "FNX45",
+                        "Chance": 65,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_FNX45_15Rnd",
+                            "PistolSuppressor",
+                            "TLRLight",
+                            "FNP45_MRDSOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "VSS",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_VSS_10Rnd",
+                            "PSO11Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Scout",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Scout_5Rnd",
+                            "M68Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Aug",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Aug_30Rnd",
+                            "BUISOptic"
+                        ]
+                    }
+                ],
+                "Parts": [
+                ],
+                "VehicleTimer": 0,
+                "CrateTimer": 120000
+            },
+            {
+                "Weight": 50,
+                "RewardType": "crate",
+                "Item": "ALQMilitaryCrate",
+                "Position": "751.72802734375 6.119999885559082 1918.4599609375",
+                "Orientation": "-26.99991226196289 -0.0 -0.0",
+                "MinGuaranteedItems": 2,
+				"MaxItems": 3,
+                "Contents": [
+                    {
+                        "ItemName": "Map",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "Compass",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "AKM",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_AKM_30Rnd",
+                            "KashtanOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "M4A1",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_CMAG_40Rnd",
+                            "M4_CarryHandleOptic",
+							"M4_PlasticHndgrd",
+							"M4_OEBttstck"
+                        ]
+                    },
+                    {
+                        "ItemName": "FNX45",
+                        "Chance": 55,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_FNX45_15Rnd",
+                            "PistolSuppressor",
+                            "TLRLight",
+                            "FNP45_MRDSOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "VSS",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_VSS_10Rnd",
+                            "PSO11Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Scout",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Scout_5Rnd",
+                            "M68Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Aug",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Aug_30Rnd",
+                            "BUISOptic"
+                        ]
+                    }
+                ],
+                "Parts": [
+                ],
+                "VehicleTimer": 0,
+                "CrateTimer": 120000
+            }
+        ]
+    },
+    {  
+  	    "_description": "1005_Staroye",
+        "ObjectiveID": 1005,
+        "ObjectiveType": 10,
+        "Groups": [
+            {
+                "Weight": 50,
+                "RewardType": "crate",
+                "Item": "ALQMilitaryCrate",
+                "Position": "10430.5 277.6000061035156 5850.4599609375",
+                "Orientation": "89.99994659423828 -0.0 -0.0",
+                "MinGuaranteedItems": 2,
+				"MaxItems": 3,
+                "Contents": [
+                    {
+                        "ItemName": "Map",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "Compass",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "AKM",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_AKM_30Rnd",
+                            "KashtanOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "FNX45",
+                        "Chance": 65,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_FNX45_15Rnd",
+                            "PistolSuppressor",
+                            "TLRLight",
+                            "FNP45_MRDSOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "VSS",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_VSS_10Rnd",
+                            "PSO11Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Scout",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Scout_5Rnd",
+                            "M68Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Aug",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Aug_30Rnd",
+                            "BUISOptic"
+                        ]
+                    }
+                ],
+                "Parts": [
+                ],
+                "VehicleTimer": 0,
+                "CrateTimer": 120000
+            },
+            {
+                "Weight": 50,
+                "RewardType": "crate",
+                "Item": "ALQMilitaryCrate",
+                "Position": "10430.5 277.6000061035156 5850.4599609375",
+                "Orientation": "89.99994659423828 -0.0 -0.0",
+                "MinGuaranteedItems": 2,
+				"MaxItems": 3,
+                "Contents": [
+                    {
+                        "ItemName": "Map",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "Compass",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "AKM",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_AKM_30Rnd",
+                            "KashtanOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "M4A1",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_CMAG_40Rnd",
+                            "M4_CarryHandleOptic",
+							"M4_PlasticHndgrd",
+							"M4_OEBttstck"
+                        ]
+                    },
+                    {
+                        "ItemName": "FNX45",
+                        "Chance": 55,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_FNX45_15Rnd",
+                            "PistolSuppressor",
+                            "TLRLight",
+                            "FNP45_MRDSOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "VSS",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_VSS_10Rnd",
+                            "PSO11Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Scout",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Scout_5Rnd",
+                            "M68Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Aug",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Aug_30Rnd",
+                            "BUISOptic"
+                        ]
+                    }
+                ],
+                "Parts": [
+                ],
+                "VehicleTimer": 0,
+                "CrateTimer": 120000
+            }
+        ]
+    },
+    {  
+  	    "_description": "1006_Sosnovy_pereval",
+        "ObjectiveID": 1006,
+        "ObjectiveType": 10,
+        "Groups": [
+            {
+                "Weight": 50,
+                "RewardType": "crate",
+                "Item": "ALQMilitaryCrate",
+                "Position": "2705.699951171875 363.6400146484375 6762.56005859375",
+                "Orientation": "-108.0 -0.0 1.9000000953674317",
+                "MinGuaranteedItems": 2,
+				"MaxItems": 3,
+                "Contents": [
+                    {
+                        "ItemName": "Map",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "Compass",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "AKM",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_AKM_30Rnd",
+                            "KashtanOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "FNX45",
+                        "Chance": 65,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_FNX45_15Rnd",
+                            "PistolSuppressor",
+                            "TLRLight",
+                            "FNP45_MRDSOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "VSS",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_VSS_10Rnd",
+                            "PSO11Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Scout",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Scout_5Rnd",
+                            "M68Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Aug",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Aug_30Rnd",
+                            "BUISOptic"
+                        ]
+                    }
+                ],
+                "Parts": [
+                ],
+                "VehicleTimer": 0,
+                "CrateTimer": 120000
+            },
+            {
+                "Weight": 50,
+                "RewardType": "crate",
+                "Item": "ALQMilitaryCrate",
+                "Position": "2705.699951171875 363.6400146484375 6762.56005859375",
+                "Orientation": "-108.0 -0.0 1.9000000953674317",
+                "MinGuaranteedItems": 2,
+				"MaxItems": 3,
+                "Contents": [
+                    {
+                        "ItemName": "Map",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "Compass",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "AKM",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_AKM_30Rnd",
+                            "KashtanOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "M4A1",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_CMAG_40Rnd",
+                            "M4_CarryHandleOptic",
+							"M4_PlasticHndgrd",
+							"M4_OEBttstck"
+                        ]
+                    },
+                    {
+                        "ItemName": "FNX45",
+                        "Chance": 55,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_FNX45_15Rnd",
+                            "PistolSuppressor",
+                            "TLRLight",
+                            "FNP45_MRDSOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "VSS",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_VSS_10Rnd",
+                            "PSO11Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Scout",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Scout_5Rnd",
+                            "M68Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Aug",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Aug_30Rnd",
+                            "BUISOptic"
+                        ]
+                    }
+                ],
+                "Parts": [
+                ],
+                "VehicleTimer": 0,
+                "CrateTimer": 120000
+            }
+        ]
+    },
+	{  
+  	    "_description": "1007_Severograd",
+        "ObjectiveID": 1007,
+        "ObjectiveType": 10,
+        "Groups": [
+            {
+                "Weight": 50,
+                "RewardType": "crate",
+                "Item": "ALQMilitaryCrate",
+                "Position": "7084.52001953125 130.5 12709.099609375",
+                "Orientation": "62.99994659423828 -0.0 -0.0",
+                "MinGuaranteedItems": 2,
+				"MaxItems": 3,
+                "Contents": [
+                    {
+                        "ItemName": "Map",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "Compass",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "AKM",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_AKM_30Rnd",
+                            "KashtanOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "FNX45",
+                        "Chance": 65,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_FNX45_15Rnd",
+                            "PistolSuppressor",
+                            "TLRLight",
+                            "FNP45_MRDSOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "VSS",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_VSS_10Rnd",
+                            "PSO11Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Scout",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Scout_5Rnd",
+                            "M68Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Aug",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Aug_30Rnd",
+                            "BUISOptic"
+                        ]
+                    }
+                ],
+                "Parts": [
+                ],
+                "VehicleTimer": 0,
+                "CrateTimer": 120000
+            },
+            {
+                "Weight": 50,
+                "RewardType": "crate",
+                "Item": "ALQMilitaryCrate",
+                "Position": "7084.52001953125 130.5 12709.099609375",
+                "Orientation": "62.99994659423828 -0.0 -0.0",
+                "MinGuaranteedItems": 2,
+				"MaxItems": 3,
+                "Contents": [
+                    {
+                        "ItemName": "Map",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "Compass",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "AKM",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_AKM_30Rnd",
+                            "KashtanOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "M4A1",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_CMAG_40Rnd",
+                            "M4_CarryHandleOptic",
+							"M4_PlasticHndgrd",
+							"M4_OEBttstck"
+                        ]
+                    },
+                    {
+                        "ItemName": "FNX45",
+                        "Chance": 55,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_FNX45_15Rnd",
+                            "PistolSuppressor",
+                            "TLRLight",
+                            "FNP45_MRDSOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "VSS",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_VSS_10Rnd",
+                            "PSO11Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Scout",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Scout_5Rnd",
+                            "M68Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Aug",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Aug_30Rnd",
+                            "BUISOptic"
+                        ]
+                    }
+                ],
+                "Parts": [
+                ],
+                "VehicleTimer": 0,
+                "CrateTimer": 120000
+            }
+        ]
+    },
+	{  
+  	    "_description": "1008_Rify-Black Lake",
+        "ObjectiveID": 1008,
+        "ObjectiveType": 10,
+        "Groups": [
+            {
+                "Weight": 50,
+                "RewardType": "crate",
+                "Item": "ALQMilitaryCrate",
+                "Position": "13556.900390625 32.65999984741211 11739.7001953125",
+                "Orientation": "-45.0 -0.0 3.5999932289123537",
+                "MinGuaranteedItems": 2,
+				"MaxItems": 3,
+                "Contents": [
+                    {
+                        "ItemName": "Map",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "Compass",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "AKM",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_AKM_30Rnd",
+                            "KashtanOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "FNX45",
+                        "Chance": 65,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_FNX45_15Rnd",
+                            "PistolSuppressor",
+                            "TLRLight",
+                            "FNP45_MRDSOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "VSS",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_VSS_10Rnd",
+                            "PSO11Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Scout",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Scout_5Rnd",
+                            "M68Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Aug",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Aug_30Rnd",
+                            "BUISOptic"
+                        ]
+                    }
+                ],
+                "Parts": [
+                ],
+                "VehicleTimer": 0,
+                "CrateTimer": 120000
+            },
+            {
+                "Weight": 50,
+                "RewardType": "crate",
+                "Item": "ALQMilitaryCrate",
+                "Position": "13556.900390625 32.65999984741211 11739.7001953125",
+                "Orientation": "-45.0 -0.0 3.5999932289123537",
+                "MinGuaranteedItems": 2,
+				"MaxItems": 3,
+                "Contents": [
+                    {
+                        "ItemName": "Map",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "Compass",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "AKM",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_AKM_30Rnd",
+                            "KashtanOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "M4A1",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_CMAG_40Rnd",
+                            "M4_CarryHandleOptic",
+							"M4_PlasticHndgrd",
+							"M4_OEBttstck"
+                        ]
+                    },
+                    {
+                        "ItemName": "FNX45",
+                        "Chance": 55,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_FNX45_15Rnd",
+                            "PistolSuppressor",
+                            "TLRLight",
+                            "FNP45_MRDSOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "VSS",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_VSS_10Rnd",
+                            "PSO11Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Scout",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Scout_5Rnd",
+                            "M68Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Aug",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Aug_30Rnd",
+                            "BUISOptic"
+                        ]
+                    }
+                ],
+                "Parts": [
+                ],
+                "VehicleTimer": 0,
+                "CrateTimer": 120000
+            }
+        ]
+    },
+	{  
+  	    "_description": "1009_Prigorodki",
+        "ObjectiveID": 1009,
+        "ObjectiveType": 10,
+        "Groups": [
+            {
+                "Weight": 50,
+                "RewardType": "crate",
+                "Item": "ALQMilitaryCrate",
+                "Position": "8223.650390625 7.170000076293945 3101.909912109375",
+                "Orientation": "98.99993133544922 -0.0 -0.0",
+                "MinGuaranteedItems": 2,
+				"MaxItems": 3,
+                "Contents": [
+                    {
+                        "ItemName": "Map",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "Compass",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "AKM",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_AKM_30Rnd",
+                            "KashtanOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "FNX45",
+                        "Chance": 65,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_FNX45_15Rnd",
+                            "PistolSuppressor",
+                            "TLRLight",
+                            "FNP45_MRDSOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "VSS",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_VSS_10Rnd",
+                            "PSO11Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Scout",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Scout_5Rnd",
+                            "M68Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Aug",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Aug_30Rnd",
+                            "BUISOptic"
+                        ]
+                    }
+                ],
+                "Parts": [
+                ],
+                "VehicleTimer": 0,
+                "CrateTimer": 120000
+            },
+            {
+                "Weight": 50,
+                "RewardType": "crate",
+                "Item": "ALQMilitaryCrate",
+                "Position": "8223.650390625 7.170000076293945 3101.909912109375",
+                "Orientation": "98.99993133544922 -0.0 -0.0",
+                "MinGuaranteedItems": 2,
+				"MaxItems": 3,
+                "Contents": [
+                    {
+                        "ItemName": "Map",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "Compass",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "AKM",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_AKM_30Rnd",
+                            "KashtanOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "M4A1",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_CMAG_40Rnd",
+                            "M4_CarryHandleOptic",
+							"M4_PlasticHndgrd",
+							"M4_OEBttstck"
+                        ]
+                    },
+                    {
+                        "ItemName": "FNX45",
+                        "Chance": 55,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_FNX45_15Rnd",
+                            "PistolSuppressor",
+                            "TLRLight",
+                            "FNP45_MRDSOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "VSS",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_VSS_10Rnd",
+                            "PSO11Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Scout",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Scout_5Rnd",
+                            "M68Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Aug",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Aug_30Rnd",
+                            "BUISOptic"
+                        ]
+                    }
+                ],
+                "Parts": [
+                ],
+                "VehicleTimer": 0,
+                "CrateTimer": 120000
+            }
+        ]
+    },
+	{  
+  	    "_description": "1010_Plotina_Topolka",
+        "ObjectiveID": 1010,
+        "ObjectiveType": 10,
+        "Groups": [
+            {
+                "Weight": 50,
+                "RewardType": "crate",
+                "Item": "ALQMilitaryCrate",
+                "Position": "10242.2998046875 59.68000030517578 3985.449951171875",
+                "Orientation": "-63.00000762939453 0.20000000298023225 2.399998664855957",
+                "MinGuaranteedItems": 2,
+				"MaxItems": 3,
+                "Contents": [
+                    {
+                        "ItemName": "Map",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "Compass",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "AKM",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_AKM_30Rnd",
+                            "KashtanOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "FNX45",
+                        "Chance": 65,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_FNX45_15Rnd",
+                            "PistolSuppressor",
+                            "TLRLight",
+                            "FNP45_MRDSOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "VSS",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_VSS_10Rnd",
+                            "PSO11Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Scout",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Scout_5Rnd",
+                            "M68Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Aug",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Aug_30Rnd",
+                            "BUISOptic"
+                        ]
+                    }
+                ],
+                "Parts": [
+                ],
+                "VehicleTimer": 0,
+                "CrateTimer": 120000
+            },
+            {
+                "Weight": 50,
+                "RewardType": "crate",
+                "Item": "ALQMilitaryCrate",
+                "Position": "10242.2998046875 59.68000030517578 3985.449951171875",
+                "Orientation": "-63.00000762939453 0.20000000298023225 2.399998664855957",
+                "MinGuaranteedItems": 2,
+				"MaxItems": 3,
+                "Contents": [
+                    {
+                        "ItemName": "Map",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "Compass",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "AKM",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_AKM_30Rnd",
+                            "KashtanOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "M4A1",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_CMAG_40Rnd",
+                            "M4_CarryHandleOptic",
+							"M4_PlasticHndgrd",
+							"M4_OEBttstck"
+                        ]
+                    },
+                    {
+                        "ItemName": "FNX45",
+                        "Chance": 55,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_FNX45_15Rnd",
+                            "PistolSuppressor",
+                            "TLRLight",
+                            "FNP45_MRDSOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "VSS",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_VSS_10Rnd",
+                            "PSO11Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Scout",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Scout_5Rnd",
+                            "M68Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Aug",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Aug_30Rnd",
+                            "BUISOptic"
+                        ]
+                    }
+                ],
+                "Parts": [
+                ],
+                "VehicleTimer": 0,
+                "CrateTimer": 120000
+            }
+        ]
+    },
+	{  
+  	    "_description": "1011_Novylug",
+        "ObjectiveID": 1011,
+        "ObjectiveType": 10,
+        "Groups": [
+            {
+                "Weight": 50,
+                "RewardType": "crate",
+                "Item": "ALQMilitaryCrate",
+                "Position": "9550.4404296875 242.75 11829.400390625",
+                "Orientation": "36.000003814697269 -0.0 -0.0",
+                "MinGuaranteedItems": 2,
+				"MaxItems": 3,
+                "Contents": [
+                    {
+                        "ItemName": "Map",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "Compass",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "AKM",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_AKM_30Rnd",
+                            "KashtanOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "FNX45",
+                        "Chance": 65,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_FNX45_15Rnd",
+                            "PistolSuppressor",
+                            "TLRLight",
+                            "FNP45_MRDSOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "VSS",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_VSS_10Rnd",
+                            "PSO11Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Scout",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Scout_5Rnd",
+                            "M68Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Aug",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Aug_30Rnd",
+                            "BUISOptic"
+                        ]
+                    }
+                ],
+                "Parts": [
+                ],
+                "VehicleTimer": 0,
+                "CrateTimer": 120000
+            },
+            {
+                "Weight": 50,
+                "RewardType": "crate",
+                "Item": "ALQMilitaryCrate",
+                "Position": "9550.4404296875 242.75 11829.400390625",
+                "Orientation": "36.000003814697269 -0.0 -0.0",
+                "MinGuaranteedItems": 2,
+				"MaxItems": 3,
+                "Contents": [
+                    {
+                        "ItemName": "Map",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "Compass",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "AKM",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_AKM_30Rnd",
+                            "KashtanOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "M4A1",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_CMAG_40Rnd",
+                            "M4_CarryHandleOptic",
+							"M4_PlasticHndgrd",
+							"M4_OEBttstck"
+                        ]
+                    },
+                    {
+                        "ItemName": "FNX45",
+                        "Chance": 55,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_FNX45_15Rnd",
+                            "PistolSuppressor",
+                            "TLRLight",
+                            "FNP45_MRDSOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "VSS",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_VSS_10Rnd",
+                            "PSO11Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Scout",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Scout_5Rnd",
+                            "M68Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Aug",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Aug_30Rnd",
+                            "BUISOptic"
+                        ]
+                    }
+                ],
+                "Parts": [
+                ],
+                "VehicleTimer": 0,
+                "CrateTimer": 120000
+            }
+			
+        ]
+    },
+	{  
+  	    "_description": "1012_Kresta",
+        "ObjectiveID": 1012,
+        "ObjectiveType": 10,
+        "Groups": [
+            {
+                "Weight": 50,
+                "RewardType": "crate",
+                "Item": "ALQMilitaryCrate",
+                "Position": "356.1400146484375 294.79998779296877 9405.75",
+                "Orientation": "-62.999961853027347 -0.0 -0.0",
+                "MinGuaranteedItems": 2,
+				"MaxItems": 3,
+                "Contents": [
+                    {
+                        "ItemName": "Map",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "Compass",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "AKM",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_AKM_30Rnd",
+                            "KashtanOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "FNX45",
+                        "Chance": 65,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_FNX45_15Rnd",
+                            "PistolSuppressor",
+                            "TLRLight",
+                            "FNP45_MRDSOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "VSS",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_VSS_10Rnd",
+                            "PSO11Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Scout",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Scout_5Rnd",
+                            "M68Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Aug",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Aug_30Rnd",
+                            "BUISOptic"
+                        ]
+                    }
+                ],
+                "Parts": [
+                ],
+                "VehicleTimer": 0,
+                "CrateTimer": 120000
+            },
+            {
+                "Weight": 50,
+                "RewardType": "crate",
+                "Item": "ALQMilitaryCrate",
+                "Position": "356.1400146484375 294.79998779296877 9405.75",
+                "Orientation": "-62.999961853027347 -0.0 -0.0",
+                "MinGuaranteedItems": 2,
+				"MaxItems": 3,
+                "Contents": [
+                    {
+                        "ItemName": "Map",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "Compass",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "AKM",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_AKM_30Rnd",
+                            "KashtanOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "M4A1",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_CMAG_40Rnd",
+                            "M4_CarryHandleOptic",
+							"M4_PlasticHndgrd",
+							"M4_OEBttstck"
+                        ]
+                    },
+                    {
+                        "ItemName": "FNX45",
+                        "Chance": 55,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_FNX45_15Rnd",
+                            "PistolSuppressor",
+                            "TLRLight",
+                            "FNP45_MRDSOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "VSS",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_VSS_10Rnd",
+                            "PSO11Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Scout",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Scout_5Rnd",
+                            "M68Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Aug",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Aug_30Rnd",
+                            "BUISOptic"
+                        ]
+                    }
+                ],
+                "Parts": [
+                ],
+                "VehicleTimer": 0,
+                "CrateTimer": 120000
+            }
+			
+        ]
+    },
+	{  
+  	    "_description": "1013_Grozovy_pereval",
+        "ObjectiveID": 1013,
+        "ObjectiveType": 10,
+        "Groups": [
+            {
+                "Weight": 50,
+                "RewardType": "crate",
+                "Item": "ALQMilitaryCrate",
+                "Position": "3359.929931640625 330.20001220703127 15223.2001953125",
+                "Orientation": "9.0 -0.0 -0.0",
+                "MinGuaranteedItems": 2,
+				"MaxItems": 3,
+                "Contents": [
+                    {
+                        "ItemName": "Map",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "Compass",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "AKM",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_AKM_30Rnd",
+                            "KashtanOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "FNX45",
+                        "Chance": 65,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_FNX45_15Rnd",
+                            "PistolSuppressor",
+                            "TLRLight",
+                            "FNP45_MRDSOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "VSS",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_VSS_10Rnd",
+                            "PSO11Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Scout",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Scout_5Rnd",
+                            "M68Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Aug",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Aug_30Rnd",
+                            "BUISOptic"
+                        ]
+                    }
+                ],
+                "Parts": [
+                ],
+                "VehicleTimer": 0,
+                "CrateTimer": 120000
+            },
+            {
+                "Weight": 50,
+                "RewardType": "crate",
+                "Item": "ALQMilitaryCrate",
+                "Position": "3359.929931640625 330.20001220703127 15223.2001953125",
+                "Orientation": "9.0 -0.0 -0.0",
+                "MinGuaranteedItems": 2,
+				"MaxItems": 3,
+                "Contents": [
+                    {
+                        "ItemName": "Map",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "Compass",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "AKM",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_AKM_30Rnd",
+                            "KashtanOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "M4A1",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_CMAG_40Rnd",
+                            "M4_CarryHandleOptic",
+							"M4_PlasticHndgrd",
+							"M4_OEBttstck"
+                        ]
+                    },
+                    {
+                        "ItemName": "FNX45",
+                        "Chance": 55,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_FNX45_15Rnd",
+                            "PistolSuppressor",
+                            "TLRLight",
+                            "FNP45_MRDSOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "VSS",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_VSS_10Rnd",
+                            "PSO11Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Scout",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Scout_5Rnd",
+                            "M68Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Aug",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Aug_30Rnd",
+                            "BUISOptic"
+                        ]
+                    }
+                ],
+                "Parts": [
+                ],
+                "VehicleTimer": 0,
+                "CrateTimer": 120000
+            }
+			
+        ]
+    },
+	{  
+  	    "_description": "1014_Gorkal",
+        "ObjectiveID": 1014,
+        "ObjectiveType": 10,
+        "Groups": [
+            {
+                "Weight": 50,
+                "RewardType": "crate",
+                "Item": "ALQMilitaryCrate",
+                "Position": "10456.2001953125 178.5 9154.7197265625",
+                "Orientation": "9.0 -0.0 -0.0",
+                "MinGuaranteedItems": 2,
+				"MaxItems": 3,
+                "Contents": [
+                    {
+                        "ItemName": "Map",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "Compass",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "AKM",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_AKM_30Rnd",
+                            "KashtanOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "FNX45",
+                        "Chance": 65,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_FNX45_15Rnd",
+                            "PistolSuppressor",
+                            "TLRLight",
+                            "FNP45_MRDSOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "VSS",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_VSS_10Rnd",
+                            "PSO11Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Scout",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Scout_5Rnd",
+                            "M68Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Aug",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Aug_30Rnd",
+                            "BUISOptic"
+                        ]
+                    }
+                ],
+                "Parts": [
+                ],
+                "VehicleTimer": 0,
+                "CrateTimer": 120000
+            },
+            {
+                "Weight": 50,
+                "RewardType": "crate",
+                "Item": "ALQMilitaryCrate",
+                "Position": "10456.2001953125 178.5 9154.7197265625",
+                "Orientation": "9.0 -0.0 -0.0",
+                "MinGuaranteedItems": 2,
+				"MaxItems": 3,
+                "Contents": [
+                    {
+                        "ItemName": "Map",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "Compass",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "AKM",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_AKM_30Rnd",
+                            "KashtanOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "M4A1",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_CMAG_40Rnd",
+                            "M4_CarryHandleOptic",
+							"M4_PlasticHndgrd",
+							"M4_OEBttstck"
+                        ]
+                    },
+                    {
+                        "ItemName": "FNX45",
+                        "Chance": 55,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_FNX45_15Rnd",
+                            "PistolSuppressor",
+                            "TLRLight",
+                            "FNP45_MRDSOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "VSS",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_VSS_10Rnd",
+                            "PSO11Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Scout",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Scout_5Rnd",
+                            "M68Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Aug",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Aug_30Rnd",
+                            "BUISOptic"
+                        ]
+                    }
+                ],
+                "Parts": [
+                ],
+                "VehicleTimer": 0,
+                "CrateTimer": 120000
+            }
+			
+        ]
+    },
+	{  
+  	    "_description": "1015_ForestBaseTruckl",
+        "ObjectiveID": 1015,
+        "ObjectiveType": 10,
+        "Groups": [
+            {
+                "Weight": 100,
+                "RewardType": "vehicle",
+                "Item": "Truck_01_Covered",
+                "Position": "10934.1689453125 220.32131958007813 13385.15625",
+                "Orientation": "14.576469421386719 -0.24714651703834535 0.39591532945632937",
+                "MinGuaranteedItems": 2,
+				"MaxItems": 3,
+                "Contents": [
+                    {
+                        "ItemName": "Map",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "Compass",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "AKM",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_AKM_30Rnd",
+                            "KashtanOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "FNX45",
+                        "Chance": 65,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_FNX45_15Rnd",
+                            "PistolSuppressor",
+                            "TLRLight",
+                            "FNP45_MRDSOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "VSS",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_VSS_10Rnd",
+                            "PSO11Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Scout",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Scout_5Rnd",
+                            "M68Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Aug",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Aug_30Rnd",
+                            "BUISOptic"
+                        ]
+                    }
+                ],
+                "Parts": [],
+                "VehicleTimer": 120000,
+                "CrateTimer": 120000
+            },
+            {
+                "Weight": 0,
+                "RewardType": "vehicle",
+                "Item": "Truck_01_Covered_Blue",
+                "Position": "10934.1689453125 220.32131958007813 13385.15625",
+                "Orientation": "14.576469421386719 -0.24714651703834535 0.39591532945632937",
+                "MinGuaranteedItems": 2,
+				"MaxItems": 3,
+                "Contents": [
+                    {
+                        "ItemName": "Map",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "Compass",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                        ]
+                    },
+                    {
+                        "ItemName": "AKM",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_AKM_30Rnd",
+                            "KashtanOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "M4A1",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_CMAG_40Rnd",
+                            "M4_CarryHandleOptic",
+							"M4_PlasticHndgrd",
+							"M4_OEBttstck"
+                        ]
+                    },
+                    {
+                        "ItemName": "FNX45",
+                        "Chance": 55,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_FNX45_15Rnd",
+                            "PistolSuppressor",
+                            "TLRLight",
+                            "FNP45_MRDSOptic"
+                        ]
+                    },
+                    {
+                        "ItemName": "VSS",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_VSS_10Rnd",
+                            "PSO11Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Scout",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Scout_5Rnd",
+                            "M68Optic"
+                        ]
+                    },
+                    {
+                        "ItemName": "Aug",
+                        "Chance": 50,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_Aug_30Rnd",
+                            "BUISOptic"
+                        ]
+                    }
+                ],
+                "Parts": [],
+                "VehicleTimer": 120000,
+                "CrateTimer": 120000
+            }
+			
+        ]
+    },
+	{
+        "ObjectiveID": 1016,
+        "ObjectiveType": 8,
+        "Groups": [
+            {
+                "Weight": 0,
+                "RewardType": "crate",
+                "Item": "SeaChest",
+                "Position": "12194.9 12.4887 9691.2",
+                "Orientation": "0 0 0",
+                "MinGuaranteedItems": 2,
+                "MaxItems": 5,
+                "Contents": [
+                    {
+                        "ItemName": "Map",
+                        "Chance": 100,
+                        "Quantity": 1,
+                        "Attachments": []
+                    },
+                    {
+                        "ItemName": "Compass",
+                        "Chance": 60,
+                        "Quantity": 1,
+                        "Attachments": []
+                    }
+                ],
+                "VehicleTimer": 0,
+                "CrateTimer": 120000,
+                "Parts": []
+            },
+            {
+                "Weight": 100,
+                "RewardType": "vehicle",
+                "Item": "Truck_01_Covered",
+                "Position": "5786.58 93.8799 3089.98",
+                "Orientation": "0 0 0",
+                "MinGuaranteedItems": 1,
+                "MaxItems": 3,
+                "Contents": [
+                    {
+                        "ItemName": "AKM",
+                        "Chance": 100,
+                        "Quantity": 1,
+                        "Attachments": [
+                            "Mag_AKM_30Rnd",
+                            "KobraOptic"
+                        ]
+                    }
+                ],
+                "VehicleTimer": 180000,
+                "CrateTimer": 0,
+                "Parts": []
+            }
+        ]
+    }
+]
