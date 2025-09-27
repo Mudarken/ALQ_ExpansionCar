@@ -1,0 +1,16 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1,
+    "ObjectiveType": 3,
+    "ObjectiveText": "TEST ALQ",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+       5932.46, 84.8859, 3201.3
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "ALQ",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

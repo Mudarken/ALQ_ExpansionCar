@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1007,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Wciągnij flage na maszt",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionRaiseKOTHFlag"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

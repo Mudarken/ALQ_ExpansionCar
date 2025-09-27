@@ -1,0 +1,96 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1001,
+    "Type": 1,
+    "Title": "Odzyskaj posterunek Novoselki",
+    "Descriptions": [
+    "Hej, %1! Posterunek to teraz siedlisko bandytów, szabrowników i innych dwunożnych pasożytów. Potrzebuję, żebyś zrobił tam porządek. Wyrzuć ich jak stare skarpety, zawieś białą flagę na maszcie – niech wszyscy wiedzą, że miejsce jest czyste. A przy okazji zgarnij zawartość skrzyni – może być przydatna, może być śmierdząca, ale na pewno nie zostawiaj jej tym łachudrom.",
+    "Wracasz z pustymi rękami? Posterunek dalej w rękach bandziorów? No cóż... może flaga ci się nie zmieściła do plecaka, a może po prostu wymiękłeś. Ale nie martw się – miejsce nadal czeka na bohatera. Spróbuj jeszcze raz, zanim zgnije tam coś cennego.",
+    "No i pięknie! Flaga powiewa, bandyci zniknęli, a skrzynia jest nasza. Dzięki tobie Novoselki znowu pachnie względną cywilizacją – no, przynajmniej nie cuchnie szabrownikami. Jesteś jak odświeżacz powietrza w świecie pełnym smrodu. Brawo, bohaterze!"
+  ],
+    "ObjectiveText": "Zawieś flagę na maszcie Najlepiej białą ",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "Novolelki",
+    "QuestItems": [],
+    "Rewards": [
+	{
+            "ClassName": "AmmoBox_22_50Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+		{
+            "ClassName": "AmmoBox_45ACP_25rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+		{
+            "ClassName": "AmmoBox_380_35rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+		{
+            "ClassName": "AmmoBox_9x19_25rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+	],
+    "NeedToSelectReward": 1,
+    "RandomReward": 1,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        10
+    ],
+    "QuestTurnInIDs": [
+        10
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+	    {
+            "ConfigVersion": 28,
+            "ID": 1001,
+            "ObjectiveType": 8
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 1001,
+            "ObjectiveType": 10
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

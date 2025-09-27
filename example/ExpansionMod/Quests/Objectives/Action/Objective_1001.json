@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1001,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Wciągnij ",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionRaiseKOTHFlag"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

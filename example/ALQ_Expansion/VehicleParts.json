@@ -1,0 +1,30 @@
+{
+    "Truck_01_Covered": [
+        "Truck_01_Wheel",
+        "Truck_01_Wheel",
+		"Truck_01_Wheel",
+        "Truck_01_Wheel",
+        "Truck_01_WheelDouble",
+        "Truck_01_WheelDouble",
+        "Truck_01_WheelDouble",
+        "Truck_01_WheelDouble",
+        "Truck_01_Door_1_1",
+        "Truck_01_Door_2_1",
+        "Truck_01_Hood",
+        "HeadlightH7",
+        "HeadlightH7",
+        "TruckBattery"
+    ],
+    "OffroadHatchback": [
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackDoors_Driver",
+        "HatchbackDoors_CoDriver",
+        "HatchbackHood",
+        "CarRadiator",
+        "SparkPlug",
+        "CarBattery"
+    ]
+}
