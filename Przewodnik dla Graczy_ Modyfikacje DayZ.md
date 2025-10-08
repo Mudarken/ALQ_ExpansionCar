@@ -8,7 +8,7 @@ System King of the Hill to dynamiczne wydarzenie, które wprowadza do gry elemen
 
 ### Jak działa Flaga KOTH?
 
-Flaga KOTH to wysoki maszt z flagą, który można znaleźć w określonych lokalizacjach. Jej stan wizualny, a także efekty dymne, sygnalizują aktywność wydarzenia KOTH. Gdy flaga jest aktywna, wokół niej może unosić się dym w różnych kolorach, informując o statusie wydarzenia (np. biały dym może oznaczać aktywną strefę, zielony zwycięstwo, a czerwony porażkę).
+Flaga KOTH to wysoki maszt z flagą, który można znaleźć w określonych lokalizacjach. Jej stan wizualny, a także efekty dymne, sygnalizują aktywność wydarzenia KOTH. Gdy flaga jest aktywna, wokół niej może unosić się dym w różnych kolorach, informując o statusie wydarzenia (biały dym może oznaczać aktywną strefę).
 
 ### Interakcja z Flagą
 
