@@ -12,7 +12,7 @@ Flaga KOTH (`Expansion_KOTHflag`) musi zostać umieszczona na mapie serwera za p
 
 ### Efekty Wizualne Flagi (Dym)
 
-Flaga KOTH generuje efekty cząsteczkowe (dym) za pomocą klasy `KOTH_Particle`. Dym ten może sygnalizować różne stany wydarzenia KOTH (np. aktywne, zakończone sukcesem, zakończone porażką). Domyślnie, flaga spawnuje biały dym, gdy jest aktywna. Gdy flaga zostanie opuszczona (co zazwyczaj oznacza przejęcie punktu), dym jest zatrzymywany, a cząsteczka usuwana. Możecie dostosować typy cząsteczek dymu w pliku `KOTH_Particle.c`, jeśli chcecie zmienić kolory lub efekty wizualne dla różnych stanów.
+Flaga KOTH generuje efekty cząsteczkowe (dym) za pomocą klasy `KOTH_Particle`. Dym ten może sygnalizować różne stany wydarzenia KOTH (np. aktywne, zakończone sukcesem, zakończone porażką). Domyślnie, flaga spawnuje biały dym, gdy jest aktywna. Gdy flaga zostanie podniesiona (co zazwyczaj oznacza przejęcie punktu), dym jest zatrzymywany, a cząsteczka usuwana. Możecie dostosować typy cząsteczek dymu w pliku `KOTH_Particle.c`, jeśli chcecie zmienić kolory lub efekty wizualne dla różnych stanów.
 
 ### Akcje Graczy
 
